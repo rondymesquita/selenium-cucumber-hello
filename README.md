@@ -7,6 +7,7 @@ Selenium Example with multiples drives running in same interface.
 - Selendroid
 - Android SDK: **ANDROID_HOME** on path
 - **JAVA_HOME** on path (tested with java8)
+- Firefox latest version installed
 
 ## Configuring
 ### Dependencies
